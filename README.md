@@ -2,7 +2,7 @@
 
 Shape layers animation based on Polar Vector's work [Gradient Topography](https://polarvectors.com/shop/textures/gradient-topography/) designed by Diana Hlevnjak.
 
-![Image Title](link)
+![Gradient Topography Animation](https://tympanus.net/codrops/wp-content/uploads/2018/01/GradientTopographyAnimation_Featured-1.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=33779)
 
